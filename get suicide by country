@@ -1,0 +1,4 @@
+def return_all_suicides(country, dataf):
+    country_df = dataf[dataf['country']==str(country)]
+    country_group = country_df.groupby('year')['suicides_no'].sum()
+    print (country_group)
