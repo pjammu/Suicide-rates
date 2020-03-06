@@ -1,0 +1,28 @@
+Good:
+Czech Republic
+Denmark
+ecuador
+el salvador
+estonia
+fiji
+finland
+france
+georgia
+germany
+greece
+Guatemala
+guyana
+hungary
+iceland
+ireland
+isreal
+italy
+japan
+kazakhstan
+kuwait
+
+Bad:
+dominica
+grenada
+jamaica
+kiribati
