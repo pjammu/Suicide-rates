@@ -1,4 +1,4 @@
-Good:
+good:
 Czech Republic
 Denmark
 ecuador
@@ -20,9 +20,34 @@ italy
 japan
 kazakhstan
 kuwait
+Russian Federation
+Serbia
+Singapore
+Slovakia (iffy)
+Slovenia
+South Africa
+Spain
+Sri Lanka
+Suriname
+Sweden
+Switzerland
+Thailand
+Trinidad and Tobago
+Turkey
+Turkmenistan
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
 
-Bad:
+bad:
 dominica
 grenada
 jamaica
 kiribati
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and Grenadines
+San Marino
+Seychelles
