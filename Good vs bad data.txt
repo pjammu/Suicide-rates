@@ -55,6 +55,21 @@ Costa Rica
 Cuba (1992 -2016)
 Czech Republic
 Denmark 
+Lithunania
+Luxembourg
+Mauritius
+Mexico
+NetherLands
+New Zealand
+Norway
+Panama
+Paraguay
+Phillipines
+Poland
+Portugal
+Puerto Rico
+Republic of Korea
+Romania
 
 bad:
 dominica
@@ -79,3 +94,16 @@ Bulgaria
 Costa Rica
 Croatia
 Cyprus
+Macau
+Maldives
+Malta
+Mongolia
+Monte Negro
+Nicaragua
+Oman
+
+Maybe:
+Qatar
+
+
+
