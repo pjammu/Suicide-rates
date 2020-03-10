@@ -40,6 +40,21 @@ United Arab Emirates
 United Kingdom
 United States
 Uruguay
+Argentina
+Armenia (1990-2016)
+Australia
+Austria
+Belarus (1990-2014)
+Belgium
+Brazil
+Bulgaria
+Canada
+Chile
+Columbia
+Costa Rica
+Cuba (1992 -2016)
+Czech Republic
+Denmark 
 
 bad:
 dominica
@@ -51,3 +66,16 @@ Saint Lucia
 Saint Vincent and Grenadines
 San Marino
 Seychelles
+Albania
+Antigua and Barbuda
+Armenia
+Aruba
+Azerbaijan
+Bahamas
+Bahrain
+Barbados
+Belize
+Bulgaria
+Costa Rica
+Croatia
+Cyprus
