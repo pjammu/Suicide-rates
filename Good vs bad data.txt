@@ -1,25 +1,25 @@
 good:
 Czech Republic
 Denmark
-ecuador
-el salvador
-estonia
-fiji
-finland
-france
-georgia
-germany
-greece
+Ecuador
+El salvador
+Estonia
+Fiji
+Finland
+France
+Georgia
+Germany
+Greece
 Guatemala
-guyana
-hungary
-iceland
-ireland
-isreal
-italy
-japan
-kazakhstan
-kuwait
+Guyana
+Hungary
+Iceland
+Ireland
+Isreal
+Italy
+Japan
+Kazakhstan
+Kuwait
 Russian Federation
 Serbia
 Singapore
@@ -72,10 +72,10 @@ Republic of Korea
 Romania
 
 bad:
-dominica
-grenada
-jamaica
-kiribati
+Dominica
+Grenada
+Jamaica
+Kiribati
 Saint Kitts and Nevis
 Saint Lucia
 Saint Vincent and Grenadines
