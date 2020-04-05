@@ -15,5 +15,6 @@ mapclassify
 descartes
 
 <b>NOTEBOOKS</b>
+
 There are five seperate notebooks in this repository within the folder called notebooks. Each of these notebooks explore a separate topic related to the suicide rates dataset. Conclusion and exploration of these topics is explained within the main report titled .
 
