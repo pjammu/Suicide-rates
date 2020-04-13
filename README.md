@@ -5,13 +5,13 @@ This is repository to track of all the code and files for our final project for 
 
 The following libraries/modules are required to be installed prior to running and can be installed using pip:
 
-ipywidgets
-geonamescache
-pycountry-convert
-sklearn
-geopandas 
-fiona
-mapclassify
+ipywidgets,
+geonamescache,
+pycountry-convert,
+sklearn,
+geopandas, 
+fiona,
+mapclassify,
 descartes
 
 <b>NOTEBOOKS</b>
